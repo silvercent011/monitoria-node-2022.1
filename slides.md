@@ -1,7 +1,7 @@
 ---
 theme: apple-basic
 layout: intro-image
-image: "/images/infinite.jpg"
+image: "./images/infinite.jpg"
 fonts:
   # basically the text
   sans: "Fira Sans"
@@ -43,7 +43,7 @@ fonts:
 
 ---
 layout: image
-image: '/images/node_bg.jpg'
+image: './images/node_bg.jpg'
 ---
 
 # Como chegamos ao Node?
