@@ -1,7 +1,7 @@
 ---
 theme: apple-basic
 layout: intro-image
-image: "./images/infinite.jpg"
+image: "./images/infinite_4k.jpg"
 fonts:
   # basically the text
   sans: "Fira Sans"
@@ -18,7 +18,7 @@ fonts:
 </div>
 
 <div class="absolute bottom-10 text-shadow-xl">
-  <h1><logos-nodejs-icon/> Node.js + Express</h1>
+  <h1><mdi-nodejs/> Node.js + Express</h1>
   <h2>Enquanto você lê este subtítulo, um novo framework JavaScript é criado, e isso é culpa do Node!</h2>
   <h3>
     Vue >>> React
@@ -127,3 +127,20 @@ image: './images/java-doom-hells-gate.jpg'
 # Java - (Sintaxe)
 
 ---
+layout: statement
+---
+
+# O JavaScript foi criado para funcionar apenas em client-side(browser).
+(kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk)
+---
+
+<div class="h-100">
+  <img class="h-full mx-auto" src="/images/livewire.jpg"/>
+</div>
+
+---
+layout: image
+image: './images/web2.jpg'
+---
+
+# Web 2.0

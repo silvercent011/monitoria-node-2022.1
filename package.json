@@ -13,6 +13,7 @@
     "@slidev/theme-seriph": "*"
   },
   "devDependencies": {
-    "@iconify-json/logos": "^1.1.8"
+    "@iconify-json/logos": "^1.1.8",
+    "@iconify-json/mdi": "^1.1.26"
   }
 }
