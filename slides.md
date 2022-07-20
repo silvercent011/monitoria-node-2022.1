@@ -127,6 +127,15 @@ image: './images/java-doom-hells-gate.jpg'
 # Java - (Sintaxe)
 
 ---
+layout: intro-image-right
+image: './images/brendan_eich.jpg'
+---
+
+# Brendan Eich
+Criador do JavaScript
+
+
+---
 layout: statement
 ---
 
@@ -144,3 +153,46 @@ image: './images/web2.jpg'
 ---
 
 # Web 2.0
+
+---
+layout: image
+image: './images/browsers1.png'
+---
+
+# Principais navegadores no início da Web 2.0
+
+---
+layout: image
+image: './images/browsers2.png'
+---
+
+# 
+
+---
+layout: image
+image: './images/chromium1.png'
+---
+
+# 
+
+---
+layout: image
+image: './images/v8.png'
+---
+
+# 
+
+---
+layout: intro-image-right
+image: './images/dahl.jpg'
+---
+
+# Ryan Dahl
+Criador do Node.js
+
+---
+layout: image
+image: './images/v8_libuv.png'
+---
+
+# 
