@@ -194,5 +194,34 @@ Criador do Node.js
 layout: image
 image: './images/v8_libuv.png'
 ---
+---
+layout: statement
+---
+# O Node.js permite utilizar o JavaScript no server-side (Servidor)
+---
+layout: statement
+---
+# O Node.js permite utilizar o JavaScript ~~no server-side (Servidor)~~ 
+# FORA DO BROWSER!
+---
+layout: image
+image: './images/Nodejs-Architecture.png'
+---
+---
+layout: image
+image: './images/node-js-uses.png'
+---
+---
+layout: image
+image: './images/express.png'
+---
+---
+layout: statement
+---
+# GitHub da monitoria com listas e código fonte dos slides:
 
-# 
+<button class="bg-blue-600 p-5 rounded-md hover:bg-blue-700 mx-auto">
+  <a href="https://github.com/silvercent011/monitoria-node-2022.1" target="_blank">
+    Acessar GitHub
+  </a>
+</button>
