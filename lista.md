@@ -1,5 +1,7 @@
 ### Lista de Exercícios
 
+Crie e envie a lista utilizando IDEs online como StackBlitz ou CodeSandbox.
+
 1. Monte um servidor HTTP com o Node JS onde:
   * Qualquer request devolva o horário do servidor
   * Requests GET para um path específico devem devolver uma imagem para o usuário (Fica a seu criterio decidir qual path é esse!)
